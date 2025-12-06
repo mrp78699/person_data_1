@@ -1,0 +1,6 @@
+path: .
+train: obj_train_data
+val: obj_train_data
+
+names:
+  0: person
