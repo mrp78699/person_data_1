@@ -1,6 +1,5 @@
-path: person_data_1
-train: obj_train_data
-val: obj_train_data
+train: /kaggle/input/person-data-1/obj_train_data
+val: /kaggle/input/person-data-1/obj_train_data
 
 names:
   0: person
