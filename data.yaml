@@ -1,4 +1,4 @@
-path: .
+path: person_data_1
 train: obj_train_data
 val: obj_train_data
 
